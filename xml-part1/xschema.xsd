@@ -1,0 +1,93 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+  <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	      <xs:element name="thesis">
+
+    <xs:element name="cover">
+      <xs:complexType>
+        <xs:sequence>
+          <xs:element name="name" type="xs:string" />
+          <xs:element name="department" type="xs:string" />
+          <xs:element name="date" type="xs:date" />
+		<xs:element  name="titles" type="xs:string"/>
+		<xs:element  name="subtitle" type="xs:string"/>
+		<xs:element name="pagenumber">
+		<xs:simpleType>
+		 <xs:restriction base="xs:integer">
+           <xs:minInclusive value="120"/>
+          <xs:maxInclusive value="200"/>
+    </xs:restriction>			
+		</xs:simpleType>	
+			
+			
+		</xs:element>
+        </xs:sequence>
+      </xs:complexType>
+    </xs:element>
+	  <xs:element name="Authors">
+      <xs:complexType>
+        <xs:sequence>
+          <xs:element name="name" type="xs:string" />
+          <xs:element name="fullname" type="xs:string" />
+          <xs:element name="date" type="xs:date" />
+			<xs:element name="Age">
+		<xs:simpleType>
+		 <xs:restriction base="xs:integer">
+           <xs:minInclusive value="20"/>
+          <xs:maxInclusive value="60"/>
+    </xs:restriction>			
+		</xs:simpleType>	
+		</xs:element>
+        </xs:sequence>
+      </xs:complexType>
+    </xs:element>
+	 
+	  <xs:element name="Advisors">
+      <xs:complexType>
+        <xs:sequence>
+          <xs:element name="profname" type="xs:string" />
+          <xs:element name="establishment" type="xs:string" />
+          <xs:element name="department" type="xs:string" />
+		<xs:element name="age">
+		<xs:simpleType>
+		 <xs:restriction base="xs:integer">
+           <xs:minInclusive value="20"/>
+          <xs:maxInclusive value="60"/>
+    </xs:restriction>			
+		</xs:simpleType>	
+		</xs:element>
+        </xs:sequence>
+      </xs:complexType>
+    </xs:element>
+	  <xs:element name="content">
+      <xs:complexType>
+        <xs:sequence>
+          <xs:element name="titles" type="xs:string" />
+          <xs:element name="number" type="xs:integer" />
+          <xs:element name="pagenumber" type="xs:integer" >
+			 <xs:simpleType>
+		 <xs:restriction base="xs:integer">
+           <xs:minInclusive value="0"/>
+          <xs:maxInclusive value="200"/>
+    </xs:restriction>
+			  </xs:simpleType>
+			</xs:element>
+			<xs:complexType name="subcontent">
+  <xs:sequence>
+    <xs:element name="subttitle" type="xs:string"/>
+    <xs:element name="subnumber" type="xs:integer"/>
+    <xs:element name="subpagenumber" type="xs:integer" >
+			 <xs:simpleType>
+		 <xs:restriction base="xs:integer">
+           <xs:minInclusive value="0"/>
+          <xs:maxInclusive value="200"/>
+    </xs:restriction>
+			  </xs:simpleType>
+			</xs:element>  
+				</xs:sequence>
+</xs:complexType>
+			
+        </xs:sequence>
+      </xs:complexType>
+    </xs:element>
+	  </xs:element>
+  </xs:schema>

@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<thesis xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="schema.xsd">
+<cover >
+<name>University of Marburg</name>
+<department>Department of Mathematics  Computer Science
+</department>
+<date>23/04/2018</date>
+<titles>Bachelor Thesis</titles>
+<subtitle>Variability-Aware Interpretation</subtitle>
+<pagenumber>200</pagenumber>
+</cover>
+<authors>
+<name>Jonas</name> 
+<fullname>Pusch</fullname>
+<date>12/04/2018</date>
+<age>50</age>
+</authors>
+<advisors >
+<profname>Prof. Dr. Klaus Ostermann</profname>
+<establishment>University of Marburg</establishment>
+<department>Department of Mathematics  Computer Science
+</department>
+<age>42</age>
+</advisors>
+<advisors >
+<profname>Prof. Dr. Christian K¨astner</profname>
+<establishment>Carnegie Mellon University</establishment>
+<department>Institute of Software Research</department>
+<age>33</age>
+</advisors>
+<advisors >
+<profname>Sebastian Erdweg, M.Sc.</profname>
+<establishment>University of Marburg</establishment>
+<department>Department of Mathematics  ComputerScience</department>
+<age>32</age>
+</advisors>
+<content >
+<titles>List of Figures</titles>
+<number>1</number>
+<pagenumber>2</pagenumber>
+<subcontent>
+<subtitle></subtitle>
+<subnumber></subnumber>	
+<subpagenumber></subpagenumber>	
+</subcontent>
+</content>
+<content >
+<titles>List of Listings</titles>
+<number>2</number>
+<pagenumber>3</pagenumber>
+<subcontent>
+<subtitle></subtitle>
+<subnumber></subnumber>	
+<subpagenumber></subpagenumber>	
+</subcontent>
+</content>
+<content >
+<titles>List of Abbreviations</titles>
+<number>3</number>
+<pagenumber>4</pagenumber>
+<subcontent>
+<subtitle></subtitle>
+<subnumber></subnumber>	
+<subpagenumber></subpagenumber>	
+</subcontent>
+</content>
+<content >
+<titles>Introduction</titles>
+<number>4</number>
+<pagenumber>5</pagenumber>
+<subcontent>
+<subtitle>Overview</subtitle>
+<subnumber>1</subnumber>	
+<subpagenumber>1</subpagenumber>	
+</subcontent>
+<subcontent>
+<subtitle>Contributions</subtitle>
+<subnumber>2</subnumber>	
+<subpagenumber>2</subpagenumber>	
+</subcontent>
+<subcontent>
+<subtitle>Outline</subtitle>
+<subnumber>3</subnumber>	
+<subpagenumber>3</subpagenumber>	
+</subcontent>
+</content>
+<content >
+<titles>Variability in Programs</titles>
+<number>5</number>
+<pagenumber>6</pagenumber>
+<subcontent>
+<subtitle>Softwares product lines</subtitle>
+<subnumber>1</subnumber>	
+<subpagenumber>1</subpagenumber>	
+</subcontent>
+<subcontent>
+<subtitle>Variability in product lines</subtitle>
+<subnumber>2</subnumber>	
+<subpagenumber>2</subpagenumber>	
+</subcontent>
+<subcontent>
+<subtitle>Testing product lines</subtitle>
+<subnumber>3</subnumber>	
+<subpagenumber>3</subpagenumber>	
+</subcontent>
+<subcontent>
+<subtitle>Variability Awara analysis</subtitle>
+<subnumber>4</subnumber>	
+<subpagenumber>4</subpagenumber>	
+</subcontent>
+<subcontent>
+<subtitle>5 TypeChef Variability-Aware Parser Framework</subtitle>
+<subnumber>5</subnumber>	
+<subpagenumber>5</subpagenumber>	
+</subcontent>
+</content>
+<content >
+<titles>Variability-Aware Interpreter</titles>
+<number>6</number>
+<pagenumber>7</pagenumber>
+<subcontent>
+<subtitle>probleme statement</subtitle>
+<subnumber>1</subnumber>	
+<subpagenumber>1</subpagenumber>	
+</subcontent>
+<subcontent>
+<subtitle>Concept</subtitle>
+<subnumber>2</subnumber>	
+<subpagenumber>2</subpagenumber>	
+</subcontent>
+<subcontent>
+<subtitle>Implementation</subtitle>
+<subnumber>3</subnumber>	
+<subpagenumber>3</subpagenumber>	
+</subcontent>
+</content>
+<content >
+<titles>Evaluation</titles>
+<number>7</number>
+<pagenumber>8</pagenumber>
+<subcontent>
+<subtitle>Methode section</subtitle>
+<subnumber>1</subnumber>	
+<subpagenumber>1</subpagenumber>	
+</subcontent>
+<subcontent>
+<subtitle>Comparing Runtimes</subtitle>
+<subnumber>2</subnumber>	
+<subpagenumber>2</subpagenumber>	
+</subcontent>
+<subcontent>
+<subtitle>Subject selection</subtitle>
+<subnumber>3</subnumber>	
+<subpagenumber>3</subpagenumber>	
+</subcontent>
+<subcontent>
+<subtitle>Setup</subtitle>
+<subnumber>4</subnumber>	
+<subpagenumber>4</subpagenumber>	
+</subcontent>
+<subcontent>
+<subtitle>Setup</subtitle>
+<subnumber>5</subnumber>	
+<subpagenumber>5</subpagenumber>	
+</subcontent>
+<subcontent>
+<subtitle>Results</subtitle>
+<subnumber>6</subnumber>	
+<subpagenumber>6</subpagenumber>	
+</subcontent>
+<subcontent>
+<subtitle>Discussion</subtitle>
+<subnumber>7</subnumber>	
+<subpagenumber>7</subpagenumber>	
+</subcontent>
+</content>
+<content >
+<titles>Future Work</titles>
+<number>8</number>
+<pagenumber>9</pagenumber>
+<subcontent>
+<subtitle></subtitle>
+<subnumber></subnumber>	
+<subpagenumber></subpagenumber>	
+</subcontent>
+</content>
+<content >
+<titles>Related Work</titles>
+<number>9</number>
+<pagenumber>10</pagenumber>
+<subcontent>
+<subtitle></subtitle>
+<subnumber></subnumber>	
+<subpagenumber></subpagenumber>	
+</subcontent>
+</content>
+<content >
+<titles>Conclusion</titles>
+<number>10</number>
+<pagenumber>11</pagenumber>
+<subcontent>
+<subtitle></subtitle>
+<subnumber></subnumber>	
+<subpagenumber></subpagenumber>	
+</subcontent>
+</content>
+</thesis>
+
+
+
+

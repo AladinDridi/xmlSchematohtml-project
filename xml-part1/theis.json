@@ -1,0 +1,210 @@
+{
+  "thesis": {
+    "-xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "-xsi:noNamespaceSchemaLocation": "thesis.xsd",
+    "cover": {
+      "name": "University of Marburg",
+      "department": "Department of Mathematics  Computer Science
+",
+      "date": "23/04/2018",
+      "titles": "Bachelor Thesis",
+      "subtitle": "Variability-Aware Interpretation",
+      "pagenumber": "200"
+    },
+    "authors": {
+      "name": "Jonas",
+      "fullname": "Pusch",
+      "date": "12/04/2018",
+      "age": "25"
+    },
+    "advisors": [
+      {
+        "profname": "Prof. Dr. Klaus Ostermann",
+        "establishment": "University of Marburg",
+        "department": "Department of Mathematics  Computer Science
+",
+        "age": "42"
+      },
+      {
+        "profname": "Prof. Dr. Christian K¨astner",
+        "establishment": "Carnegie Mellon University",
+        "department": "Institute of Software Research",
+        "age": "332"
+      },
+      {
+        "profname": "Sebastian Erdweg, M.Sc.",
+        "establishment": "University of Marburg",
+        "department": "Department of Mathematics  ComputerScience",
+        "age": "32"
+      }
+    ],
+    "content": [
+      {
+        "titles": "List of Figures",
+        "number": "1",
+        "pagenumber": "2",
+        "subcontent": {
+          
+        }
+      },
+      {
+        "titles": "List of Listings",
+        "number": "2",
+        "pagenumber": "3",
+        "subcontent": {
+          
+        }
+      },
+      {
+        "titles": "List of Abbreviations",
+        "number": "3",
+        "pagenumber": "4",
+        "subcontent": {
+          
+        }
+      },
+      {
+        "titles": "Introduction",
+        "number": "4",
+        "pagenumber": "5",
+        "subcontent": [
+          {
+            "subtitle": "Overview",
+            "subnumber": "1",
+            "subpagenumber": "1"
+          },
+          {
+            "subtitle": "Contributions",
+            "subnumber": "2",
+            "subpagenumber": "2"
+          },
+          {
+            "subtitle": "Outline",
+            "subnumber": "3",
+            "subpagenumber": "3"
+          }
+        ]
+      },
+      {
+        "titles": "Variability in Programs",
+        "number": "5",
+        "pagenumber": "6",
+        "subcontent": [
+          {
+            "subtitle": "Softwares product lines",
+            "subnumber": "1",
+            "subpagenumber": "1"
+          },
+          {
+            "subtitle": "Variability in product lines",
+            "subnumber": "2",
+            "subpagenumber": "2"
+          },
+          {
+            "subtitle": "Testing product lines",
+            "subnumber": "3",
+            "subpagenumber": "3"
+          },
+          {
+            "subtitle": "Variability Awara analysis",
+            "subnumber": "4",
+            "subpagenumber": "4"
+          },
+          {
+            "subtitle": "5 TypeChef Variability-Aware Parser Framework",
+            "subnumber": "5",
+            "subpagenumber": "5"
+          }
+        ]
+      },
+      {
+        "titles": "Variability-Aware Interpreter",
+        "number": "6",
+        "pagenumber": "7",
+        "subcontent": [
+          {
+            "subtitle": "probleme statement",
+            "subnumber": "1",
+            "subpagenumber": "1"
+          },
+          {
+            "subtitle": "Concept",
+            "subnumber": "2",
+            "subpagenumber": "2"
+          },
+          {
+            "subtitle": "Implementation",
+            "subnumber": "3",
+            "subpagenumber": "3"
+          }
+        ]
+      },
+      {
+        "titles": "Evaluation",
+        "number": "7",
+        "pagenumber": "8",
+        "subcontent": [
+          {
+            "subtitle": "Methode section",
+            "subnumber": "1",
+            "subpagenumber": "1"
+          },
+          {
+            "subtitle": "Comparing Runtimes",
+            "subnumber": "2",
+            "subpagenumber": "2"
+          },
+          {
+            "subtitle": "Subject selection",
+            "subnumber": "3",
+            "subpagenumber": "3"
+          },
+          {
+            "subtitle": "Setup",
+            "subnumber": "4",
+            "subpagenumber": "4"
+          },
+          {
+            "subtitle": "Setup",
+            "subnumber": "5",
+            "subpagenumber": "5"
+          },
+          {
+            "subtitle": "Results",
+            "subnumber": "6",
+            "subpagenumber": "6"
+          },
+          {
+            "subtitle": "Discussion",
+            "subnumber": "7",
+            "subpagenumber": "7"
+          }
+        ]
+      },
+      {
+        "titles": "Future Work",
+        "number": "8",
+        "pagenumber": "9",
+        "subcontent": {
+          
+        }
+      },
+      {
+        "titles": "Related Work",
+        "number": "9",
+        "pagenumber": "10",
+        "subcontent": {
+          
+        }
+      },
+      {
+        "titles": "Conclusion",
+        "number": "10",
+        "pagenumber": "11",
+        "subcontent": {
+          
+        }
+      }
+    ]
+  }
+}
